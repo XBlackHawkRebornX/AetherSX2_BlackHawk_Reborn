@@ -15,7 +15,10 @@
 * Increase Limit CAS
 * Anymore
 
-## Old Version
+## Channel Tele BlackHawk Official
+* [Channel Tele](https://t.me/AetherSX2BlackHawk)
+
+## Old Version BlackHawk
 * [4248 Old Version](https://pastelink.net/l0jfla2j)
 
 ## Original Version
