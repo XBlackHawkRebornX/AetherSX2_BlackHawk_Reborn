@@ -9,7 +9,7 @@
 * Easy Download Cover
 * Custom Reso
 * Add Patch & Pnach
-* Bios Automatic Active
+* Bios Automatic Active ( Bypass )
 * Increase Limit Audio
 * Increase Limit Speed
 * Increase Limit CAS
