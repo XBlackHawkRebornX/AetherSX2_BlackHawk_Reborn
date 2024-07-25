@@ -11,3 +11,6 @@
 * Add Patch & Pnach
 * Bios Automatic Active
 * Anymore
+
+## Disclaimer
+* This App For Free Not Paid
