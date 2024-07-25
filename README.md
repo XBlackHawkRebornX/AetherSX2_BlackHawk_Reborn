@@ -3,3 +3,11 @@
 </p>
 
 # Welcome To AetherSX2 BlackHawk Reborn
+
+## List Feature AetherSX2 BlackHawk Reborn
+* Lock FPS / VPS
+* Easy Download Cover
+* Custom Reso
+* Add Patch & Pnach
+* Bios Automatic Active
+* Anymore
