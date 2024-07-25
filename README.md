@@ -10,6 +10,9 @@
 * Custom Reso
 * Add Patch & Pnach
 * Bios Automatic Active
+* Increase Limit Auto
+* Increase Limit Speed
+* Increase Limit CAS
 * Anymore
 
 ## Disclaimer
