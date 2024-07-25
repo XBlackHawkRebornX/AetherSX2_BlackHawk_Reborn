@@ -13,6 +13,7 @@
 * Increase Limit Audio
 * Increase Limit Speed
 * Increase Limit CAS
+* Two Version ( Default Cover & 3D Cover )
 * Anymore
 
 ## Channel Tele BlackHawk Official
