@@ -18,5 +18,8 @@
 ## Old Version
 * [4248 Old Version](https://pastelink.net/l0jfla2j)
 
+## Original Version
+* [Original Version](https://play.google.com/store/apps/details?id=xyz.aethersx2.android)
+
 ## Disclaimer
 * This App For Free Not Paid
