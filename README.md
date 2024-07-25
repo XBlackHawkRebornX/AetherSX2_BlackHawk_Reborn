@@ -21,5 +21,8 @@
 ## Original Version
 * [Original Version](https://play.google.com/store/apps/details?id=xyz.aethersx2.android)
 
+## Original Backup Collection Old Version
+* [Original Old Version](https://www.mediafire.com/folder/fze13e0pn7vt8/Halaman+1)
+
 ## Disclaimer
 * This App For Free Not Paid
