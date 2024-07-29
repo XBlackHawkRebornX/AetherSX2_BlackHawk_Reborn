@@ -16,16 +16,16 @@
 * Two Version ( Default Cover & 3D Cover )
 * Anymore
 
-## Channel Tele BlackHawk Official
+## Channel Tele AetherSX2 BlackHawk Official
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
 
-## Old Version BlackHawk
+## Old Version AetherSX2 BlackHawk
 * [4248 Old Version](https://pastelink.net/l0jfla2j)
 
-## Original Version
+## Original Version ( AetherSX2 )
 * [Original Version](https://play.google.com/store/apps/details?id=xyz.aethersx2.android)
 
-## Original Backup Collection Old Version
+## Original Backup Collection Old Version ( AetherSX2 )
 * [Original Old Version](https://www.mediafire.com/folder/fze13e0pn7vt8/Halaman+1)
 
 ## Disclaimer
