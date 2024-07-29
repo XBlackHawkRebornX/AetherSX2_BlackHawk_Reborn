@@ -35,3 +35,9 @@
 • Tahlreth ( Official Dev AetherSX2 )
 * Fans PS2 
 * [ PCSX2 ( Official Source AetherSX2 ) ](https://github.com/PCSX2/pcsx2)
+
+## Reference AetherSX2 Other Version ( Moddification )
+* 3668 Version
+* [ NetherSX2 3668 From Trixarian ](https://github.com/Trixarian/NetherSX2-classic/releases)
+* 4248 Version
+* [ NetherSX2 4248 From Trixarian ](https://github.com/Trixarian/NetherSX2-patch/releases)
