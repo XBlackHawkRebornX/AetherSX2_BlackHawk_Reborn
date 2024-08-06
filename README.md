@@ -19,8 +19,8 @@
 ## Channel Tele AetherSX2 BlackHawk Official
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
 
-## Old Version Via Mediafire ( AetherSX2 BlackHawk )
-* [4248 Old Version](https://pastelink.net/l0jfla2j)
+## Old Version Via Tele ( AetherSX2 BlackHawk )
+* [4248 Old Version BlackHawk](https://pastelink.net/l0jfla2j)
 
 ## Original Version Via Playstore ( AetherSX2 )
 * [Original Version](https://play.google.com/store/apps/details?id=xyz.aethersx2.android)
