@@ -21,6 +21,12 @@
 
 ## Old Version Via Tele ( AetherSX2 BlackHawk )
 * [4248 Old Version BlackHawk](https://pastelink.net/l0jfla2j)
+* [3668 Old Version BlackHawk](https://pastelink.net/jhymbnje)
+* [3060 Old Version BlackHawk](https://pastelink.net/3xb49mr6)
+* [1886 Old Version BlackHawk](https://pastelink.net/pf30lc27)
+* [1660 Old Version BlackHawk]([https://pastelink.net/l0jfla2j](https://pastelink.net/5qss49sy))
+* [720 Old Version BlackHawk](https://pastelink.net/vankpd8t)
+
 
 ## Original Version Via Playstore ( AetherSX2 )
 * [Original Version](https://play.google.com/store/apps/details?id=xyz.aethersx2.android)
