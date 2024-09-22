@@ -24,7 +24,7 @@
 * [3668 Old Version BlackHawk](https://pastelink.net/jhymbnje)
 * [3060 Old Version BlackHawk](https://pastelink.net/3xb49mr6)
 * [1886 Old Version BlackHawk](https://pastelink.net/pf30lc27)
-* [1660 Old Version BlackHawk]([https://pastelink.net/l0jfla2j](https://pastelink.net/5qss49sy))
+* [1660 Old Version BlackHawk](https://pastelink.net/5qss49sy)
 * [720 Old Version BlackHawk](https://pastelink.net/vankpd8t)
 
 
