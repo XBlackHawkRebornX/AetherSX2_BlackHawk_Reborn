@@ -37,8 +37,8 @@
 ## Disclaimer
 * This App For Free Not Paid
 
-## Special Thanks
-• Tahlreth ( Official Dev AetherSX2 )
+## ⚜️ Special Thanks ⚜️
+* Tahlreth ( Official Dev AetherSX2 )
 * Fans PS2 
 * [ PCSX2 ( Official Source AetherSX2 ) ](https://github.com/PCSX2/pcsx2)
 * NetherSX2
