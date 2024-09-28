@@ -44,7 +44,7 @@
 * NetherSX2
 
 ## Reference AetherSX2 Other Version ( Moddification )
-* 3668 Version
+>* 3668 Version
 * [ NetherSX2 3668 From Trixarian ](https://github.com/Trixarian/NetherSX2-classic/releases)
-* 4248 Version
+>* 4248 Version
 * [ NetherSX2 4248 From Trixarian ](https://github.com/Trixarian/NetherSX2-patch/releases)
