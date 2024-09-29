@@ -16,6 +16,26 @@
 * Two Version ( Default Cover & 3D Cover )
 * Anymore
 
+## List Cheat Game AetherSX2 BlackHawk Reborn
+
+- God Of War 2 ( USA
+- Rumble Racing ( USA )
+- Downhill Domination ( USA )
+- Black ( USA )
+- Prince of Persia - Warrior Within ( USA )
+- Resident Evil 4  ( USA/EU )
+- Onimusha 3 - Demon Siege ( USA )
+- God Hand ( USA )
+- Prince of Persia - Sands of Time ( USA )
+- Midnight Club 3 - DUB Edition Remix ( USA )
+- Prince of Persia - The Two Thrones ( USA )
+- Mortal Kombat - Shaolin Monks ( USA )
+- Need for Speed - Most Wanted ( USA )
+- Need for Speed - Carbon ( USA )
+- God of War ( USA )
+- Need for Speed - Underground 2 ( USA )
+- Onimusha - Dawn of Dreams ( USA )
+
 ## Channel Tele AetherSX2 BlackHawk Official
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
 
