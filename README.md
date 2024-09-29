@@ -16,7 +16,7 @@
 * Two Version ( Default Cover & 3D Cover )
 * Anymore
 
-## List Cheat Game AetherSX2 BlackHawk Reborn 4248
+## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 4248
 
 - God Of War 2 ( USA )
 - Rumble Racing ( USA )
