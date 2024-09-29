@@ -18,6 +18,7 @@
 
 ## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 4248
 
+- God of War ( USA )
 - God Of War 2 ( USA )
 - Rumble Racing ( USA )
 - Downhill Domination ( USA )
@@ -32,7 +33,6 @@
 - Mortal Kombat - Shaolin Monks ( USA )
 - Need for Speed - Most Wanted ( USA )
 - Need for Speed - Carbon ( USA )
-- God of War ( USA )
 - Need for Speed - Underground 2 ( USA )
 - Onimusha - Dawn of Dreams ( USA )
 
