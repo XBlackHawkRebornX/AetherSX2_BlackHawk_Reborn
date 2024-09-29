@@ -18,7 +18,7 @@
 
 ## List Cheat Game AetherSX2 BlackHawk Reborn
 
-- God Of War 2 ( USA
+- God Of War 2 ( USA )
 - Rumble Racing ( USA )
 - Downhill Domination ( USA )
 - Black ( USA )
