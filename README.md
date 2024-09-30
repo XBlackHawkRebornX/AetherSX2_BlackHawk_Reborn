@@ -68,3 +68,6 @@
 * [ NetherSX2 3668 From Trixarian ](https://github.com/Trixarian/NetherSX2-classic/releases)
 >* 4248 Version
 * [ NetherSX2 4248 From Trixarian ](https://github.com/Trixarian/NetherSX2-patch/releases)
+
+## Reference Cover PS2
+* [Source Xlenore](https://github.com/xlenore/ps2-covers)
