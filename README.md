@@ -34,6 +34,7 @@
 - Need for Speed - Carbon ( USA )
 - Need for Speed - Underground 2 ( USA )
 - Onimusha - Dawn of Dreams ( USA )
+- Sengoku Basara 2 - Heroes ( NTSC-J ) ( V.22 )
 
 ## Channel Tele AetherSX2 BlackHawk Official
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
