@@ -37,7 +37,7 @@
 - Sengoku Basara 2 - Heroes ( NTSC-J )
 
 ## List Game Unplayable Play
-* Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) ( NTSC-U )
+* Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) ( NTSC-U ) 🛑
 
 ## Channel Tele AetherSX2 BlackHawk Official
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
