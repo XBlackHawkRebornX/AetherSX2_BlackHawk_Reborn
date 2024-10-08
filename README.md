@@ -36,8 +36,14 @@
 - Onimusha - Dawn of Dreams ( USA )
 - Sengoku Basara 2 - Heroes ( NTSC-J )
 
-## List Game Unplayable Play
+## List Game Playable & Issue
 * Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) ( NTSC-U ) 🛑
+* Fifa Street 2 ( Flag & hud & Filed Issue ) ( Render HW Issue ) ( NTSC-U ) 🟡
+
+## Status Playable Game
+* 🔴 = Not Playable
+* 🟡 = Moderate Playable
+* 🟢 = Playable
 
 ## Channel Tele AetherSX2 BlackHawk Official
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
