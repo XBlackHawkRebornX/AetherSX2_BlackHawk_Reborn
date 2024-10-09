@@ -45,7 +45,7 @@
 * 🟡 = Moderate Playable
 * 🟢 = Playable
 
-## Channel Tele AetherSX2 BlackHawk Official
+## Channel Tele AetherSX2 BlackHawk Official ( You Can Get Some Information )
 * [Channel Tele](https://t.me/AetherSX2BlackHawk)
 
 ## Old Version Via Tele ( AetherSX2 BlackHawk )
