@@ -38,7 +38,7 @@
 
 ## List Game Playable & Issue
 * Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) 🛑
-* Fifa Street 2 ( Flag & hud & Filed Issue ) ( Render HW Issue ) 🟡
+* Fifa Street 2 ( Flag & hud & Field Issue ) ( Render HW Issue ) 🟡
 
 ## Status Playable Game
 * 🔴 = Not Playable
