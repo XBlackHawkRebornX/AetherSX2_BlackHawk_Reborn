@@ -15,6 +15,16 @@
 * Two Version ( Default Cover & 3D Cover )
 * Anymore
 
+## List Feature AetherSX2 BlackHawk Reborn 3668
+* Lock FPS / VPS
+* Easy Download Cover
+* Custom Reso ( Low > Mid Device ) ( Mid > High Device )
+* Add Patch & Pnach
+* Increase Limit Audio
+* Increase Limit CAS
+* Two Version ( Default Cover & 3D Cover )
+* Anymore
+
 ## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 4248
 
 - God of War ( USA )
