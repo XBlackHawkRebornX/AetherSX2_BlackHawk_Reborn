@@ -9,7 +9,7 @@
 * Easy Download Cover
 * Custom Reso ( Low > Mid Device ) ( Mid > High Device )
 * Add Patch & Pnach
-* Bios Automatic Active ( Bypass )
+* Bios Automatic Active / Auto Import After Play Your Game & First You Installed AetherSX2 BlackHawk Reborn ( Bypass )
 * Increase Limit Audio
 * Increase Limit CAS
 * Two Version ( Default Cover & 3D Cover )
