@@ -25,7 +25,28 @@
 * Two Version ( Default Cover & 3D Cover )
 * Anymore
 
-## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 4248
+## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 4248 
+
+- God of War ( USA )
+- God Of War 2 ( USA )
+- Rumble Racing ( USA )
+- Downhill Domination ( USA )
+- Black ( USA )
+- Prince of Persia - Warrior Within ( USA )
+- Resident Evil 4  ( USA/EU )
+- Onimusha 3 - Demon Siege ( USA )
+- God Hand ( USA )
+- Prince of Persia - Sands of Time ( USA )
+- Midnight Club 3 - DUB Edition Remix ( USA )
+- Prince of Persia - The Two Thrones ( USA )
+- Mortal Kombat - Shaolin Monks ( USA )
+- Need for Speed - Most Wanted ( USA )
+- Need for Speed - Carbon ( USA )
+- Need for Speed - Underground 2 ( USA )
+- Onimusha - Dawn of Dreams ( USA )
+- Sengoku Basara 2 - Heroes ( NTSC-J )
+
+## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 3668
 
 - God of War ( USA )
 - God Of War 2 ( USA )
