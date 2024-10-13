@@ -72,6 +72,7 @@
 * Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) 🔴
 * Fifa Street 2 ( Flag & hud & Field Issue ) ( Render HW Issue ) 🟡
 * Superman Return - The Video Game ( Graphical Issue ) ( HW & SW Same Issue ) 🔴
+* Driv3r ( HW Issue ) 🟡
 
 ## Status Playable Game
 * 🔴 = Not Playable
