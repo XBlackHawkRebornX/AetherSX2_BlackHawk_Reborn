@@ -69,8 +69,9 @@
 - Sengoku Basara 2 - Heroes ( NTSC-J )
 
 ## List Game Playable & Issue
-* Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) 🛑
+* Marvel Nemesis - Rise of the Imperfects ( Graphical Issue ) ( HW & SW Same Issue ) 🔴
 * Fifa Street 2 ( Flag & hud & Field Issue ) ( Render HW Issue ) 🟡
+* Superman Return - The Video Game ( Graphical Issue ) ( HW & SW Same Issue ) 🔴
 
 ## Status Playable Game
 * 🔴 = Not Playable
