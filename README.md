@@ -46,6 +46,7 @@
 - Need for Speed - Underground 2 ( USA )
 - Onimusha - Dawn of Dreams ( USA )
 - Sengoku Basara 2 - Heroes ( NTSC-J )
+- Bleach - Blade Battlers 2nd ( NTSC-J )
 
 ## List Cheat Game Active ( No Auto ) AetherSX2 BlackHawk Reborn 3668
 
