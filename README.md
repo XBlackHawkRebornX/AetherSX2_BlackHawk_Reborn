@@ -13,6 +13,7 @@
 * Increase Limit Audio
 * Increase Limit CAS
 * Two Version ( Default Cover & 3D Cover )
+* Dump Texture
 * Anymore
 
 ## List Feature AetherSX2 BlackHawk Reborn 3668
